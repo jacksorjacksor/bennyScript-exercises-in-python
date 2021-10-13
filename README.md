@@ -1,5 +1,5 @@
 # bennyScript-exercises-in-python
-For MSc Computing (2021) students - this .py file is in Python Interactive Mode format: https://code.visualstudio.com/docs/python/jupyter-support-py
+For MSc Computing (2021) students - this .py file is written in Python Interactive Mode format which is similar to Jupyter cells. Please read this documentation if you are unsure of how to use them: https://code.visualstudio.com/docs/python/jupyter-support-py
 
 Questions:
 1.	Write some code to print out all the numbers from 1 to 10
